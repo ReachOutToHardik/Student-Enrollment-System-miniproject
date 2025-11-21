@@ -1,8 +1,8 @@
 # Student-Enrollment-System-miniproject
 
 
-LACHOO MEMORIAL COLLEGE OF SCIENCE & TECHNOLOGY, JODHPUR
-Department of Computer Applications
+<h3>LACHOO MEMORIAL COLLEGE OF SCIENCE & TECHNOLOGY
+Department of Computer Applications</h3>
 <br>
 PROJECT REPORT
 STUDENT ENROLLMENT SYSTEM (Advanced Java Mini Project)

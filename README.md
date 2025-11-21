@@ -17,8 +17,3 @@ Faculty Name: Deepak Mathur
 Course Code: CCBCA322
 Course Name: Advanced Java Lab
 
-<br><br>
-<br><br><br>
-
-Department of Computer Applications
-Lachoo Memorial College, Jodhpur (Rajasthan)

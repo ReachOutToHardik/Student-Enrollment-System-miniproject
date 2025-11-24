@@ -13,7 +13,7 @@ Name: Hardik Joshi, Jishan, Krishan Kumar
 <br>Course: BCA – Semester III
 <br>
 Submitted To:<br>
-Faculty Name: Deepak Mathur
-Course Code: CCBCA322
-Course Name: Advanced Java Lab
+Deepak Mathur
+<br>Course Code: CCBCA322
+<br>Course Name: Advanced Java Lab
 

@@ -8,11 +8,11 @@ PROJECT REPORT
 STUDENT ENROLLMENT SYSTEM (Advanced Java Mini Project)
 <br><br>
 
-Submitted By:<br>
+<b>Submitted By:<br></b>
 Name: Hardik Joshi, Jishan, Krishan Kumar
 <br>Course: BCA – Semester III
-<br>
-Submitted To:<br>
+<br><br>
+<b>Submitted To:<br></b>
 Deepak Mathur
 <br>Course Code: CCBCA322
 <br>Course Name: Advanced Java Lab

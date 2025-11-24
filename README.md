@@ -9,7 +9,7 @@ STUDENT ENROLLMENT SYSTEM (Advanced Java Mini Project)
 <br><br>
 
 Submitted By:<br>
-Name: Hardik Joshi
+Name: Hardik Joshi, Jishan, Krishan Kumar
 Course: BCA – Semester III
 <br>
 Submitted To:<br>
